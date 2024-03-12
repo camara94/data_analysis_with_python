@@ -89,3 +89,5 @@ In this course you will learn about:
 
 ## Exporting a Pandas dataframe to CSV
 ![image](./images/exporting_data.png)
+### Exporting to different formats in Python
+![image](./images/exporting_data_to_different_formats.png)
