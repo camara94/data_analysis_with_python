@@ -57,3 +57,6 @@ In this course you will learn about:
 * Overfitting, Underfitting and Model Selection
 * Ridge Regression
 * Grid Search
+* 
+## Scientifics Computing Libraries in Python
+![image](./images/scientific_computing.png)
