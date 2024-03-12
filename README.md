@@ -86,3 +86,6 @@ In this course you will learn about:
 ### Adding headers
 ![image](./images/adding_header.png)
 ![image](./images/adding_header_2.png)
+
+## Exporting a Pandas dataframe to CSV
+![image](./images/exporting_data.png)
