@@ -60,3 +60,6 @@ In this course you will learn about:
 * 
 ## Scientifics Computing Libraries in Python
 ![image](./images/scientific_computing.png)
+
+## Visualization Libraries in Python
+![image](./images/visualization.png)
