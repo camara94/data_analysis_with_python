@@ -77,3 +77,6 @@ In this course you will learn about:
 
 ### Importing a CSV into Python
 ![image](./images/importing_a_csv_into_python.png)
+
+### Importing a CSV without a Header
+![image](./images/importing_a_csv_without_a_header.png)
