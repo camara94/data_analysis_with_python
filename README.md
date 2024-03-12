@@ -70,3 +70,7 @@ In this course you will learn about:
 ## Importing and Exporting Data in Python
 ### Importing  Data
 ![image](./images/importing_data.png)
+
+## Getting Started Analyzing Data in Python
+### Getting Data
+![image](./images/getting_data.png)
