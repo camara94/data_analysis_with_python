@@ -66,3 +66,7 @@ In this course you will learn about:
 
 ## Algorithmic Libraries in Python
 ![image](./images/algorithmic_libraries.png)
+
+## Importing and Exporting Data in Python
+### Importing  Data
+![image](./images/importing_data.png)
