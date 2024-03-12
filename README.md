@@ -74,3 +74,6 @@ In this course you will learn about:
 ## Getting Started Analyzing Data in Python
 ### Getting Data
 ![image](./images/getting_data.png)
+
+### Importing a CSV into Python
+![image](./images/importing_a_csv_into_python.png)
