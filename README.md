@@ -83,3 +83,6 @@ In this course you will learn about:
 
 ### Printing the dataframe in Python
 ![image](./images/printing_dataframe.png)
+### Adding headers
+![image](./images/adding_header.png)
+![image](./images/adding_header_2.png)
