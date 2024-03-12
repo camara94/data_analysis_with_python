@@ -80,3 +80,6 @@ In this course you will learn about:
 
 ### Importing a CSV without a Header
 ![image](./images/importing_a_csv_without_a_header.png)
+
+### Printing the dataframe in Python
+![image](./images/printing_dataframe.png)
