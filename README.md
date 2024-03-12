@@ -63,3 +63,6 @@ In this course you will learn about:
 
 ## Visualization Libraries in Python
 ![image](./images/visualization.png)
+
+## Algorithmic Libraries in Python
+![image](./images/algorithmic_libraries.png)
